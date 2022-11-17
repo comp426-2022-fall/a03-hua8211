@@ -11,7 +11,7 @@
     "type": "git",
     "url": "git+https://github.com/comp426-2022-fall/a03-hua8211.git"
   },
-  "author": "hua8211",
+  "author": "@hua8211",
   "license": "MIT",
   "bin": {
     "roll-dice": "./bin/cli.js"
